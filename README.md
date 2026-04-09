@@ -47,11 +47,11 @@
     alias       : "Govi2435",
     role        : "Full-Stack Developer & IT Student",
     location    : "Gujarat, India  🇮🇳",
-    stack       : ["React", "Node.js", "Python", "Docker", "MongoDB"],
+    stack       : ["React", "JAVA", "Python", "Docker", "MongoDB"],
     specialties : ["AI/ML", "AgriTech", "DevOps", "Fitness Apps"],
     learning    : ["Cloud Architecture", "Advanced React", "Deep Learning"],
     available   : true,   // 🟢 Open to work & collaborations
-    contact     : "your.email@gmail.com",
+    contact     : "govindapp2403@gmail.com",
     motto       : "Code is poetry. Debugging is literary criticism.",
   };
 ```
@@ -107,7 +107,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,figma,sass,redux&theme=dark&perline=8"/>
 
 ### ◈ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgresql,redis,graphql&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=JAVA,express,mongodb,firebase,mysql,postgresql,redis,graphql&theme=dark&perline=8"/>
 
 ### ◈ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,vercel,nginx&theme=dark&perline=8"/>
