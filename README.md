@@ -1,122 +1,243 @@
-<h1 align="center">Hi 👋, I'm Govinda Prajapati</h1>
-<h3 align="center">Full-Stack Developer | Java & Spring Boot | React.js | Cloud Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Govi2435&label=Profile%20views&color=0e75b6&style=flat" alt="Govi2435" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Govinda%20Prajapati&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React.js%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Govinda+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+React.js+Enthusiast+%F0%9F%94%A5;Building+Scalable+Systems+%F0%9F%8C%90;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Govi2435&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Govi2435?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/Govi2435?label=Stars&style=for-the-badge&color=yellow" />
 </p>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🌈 About Me
 
-- 🎓 B.Tech in **Information Technology** at Dharamsinh Desai University, Anand, Gujarat
-- 💼 Ex-Intern at **Brahmin Solutions LLC** — built WooCommerce & Faire to WMS integrations using Spring Boot & AWS SQS
-- 🌱 Passionate about **backend engineering**, **microservices**, and **scalable system design**
-- 🚀 I love building clean, production-ready full-stack applications
-- 📫 Reach me at: **govindapp2403@gmail.com**
-- 📍 Based in **Anand, Gujarat, India**
+```java
+public class Govinda extends Developer {
+
+    String name        = "Govinda Prajapati";
+    String location    = "Anand, Gujarat, India 🇮🇳";
+    String university  = "Dharamsinh Desai University";
+    String degree      = "B.Tech in Information Technology";
+
+    String[] currentFocus = {
+        "Building scalable microservices with Spring Boot",
+        "Crafting modern UIs with React.js",
+        "Exploring Cloud & AWS services"
+    };
+
+    String[] workingOn = { "Open Source Projects", "System Design" };
+    String email       = "govindapp2403@gmail.com";
+
+    String lifePhilosophy() {
+        return "Building scalable systems, one commit at a time. 🚀";
+    }
+}
+```
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Govi2435&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**
+#### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp&theme=dark" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+</p>
 
-**Backend:**
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css&theme=dark" />
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+</p>
 
-**Frontend:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Database:**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Cloud:**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### ☁️ Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,idea&theme=dark" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔐 [Managemento – User Management System](https://github.com/Govi2435/User-management-system)
-> React.js · Node.js (Express) · MySQL · JWT
+<div align="center">
 
-A full-stack RBAC-based user management system with JWT authentication, admin dashboard for user & role management, and optimized backend with MySQL indexing.
+| 🔐 Managemento | 🚗 RentWheels |
+|:---:|:---:|
+| RBAC User Management System | Full-Stack Car Rental Platform |
+| `React.js` `Node.js` `MySQL` `JWT` | `React.js` `Spring Boot` `MongoDB` `Razorpay` |
+| REST APIs · Admin Dashboard · Middleware Security | Payment Integration · JWT Auth · Real-time Booking |
 
----
+| ⌨️ KeyStrokes | 🌿 Plant Disease Detection |
+|:---:|:---:|
+| Typing Practice App | ML-Based Detection System |
+| `React.js` `TailwindCSS` `JavaScript` | `CNN` `React.js` `API Integration` |
+| Real-time WPM · Accuracy · Error Tracking | Image Classification · Chatbot Support |
 
-#### 🚗 RentWheels – Car Rental Platform
-> React.js · Spring Boot · MongoDB · Razorpay
-
-Full-stack car booking platform with Razorpay payment integration, JWT auth, role-based access control, and scalable REST APIs for real-time booking operations.
-
----
-
-#### ⌨️ KeyStrokes – Typing Practice App
-> React.js · TailwindCSS · JavaScript
-
-A real-time typing practice app with WPM, accuracy & error tracking, multiple test modes, and performance tracking using React Hooks.
-
----
-
-#### 🌿 Plant Disease Detection System
-> CNN · React.js · API Integration
-
-ML-based image classification system for plant disease detection using a CNN model, integrated with a real-time prediction API and chatbot support.
-
----
-
-### 📜 Certifications
-
-- ☁️ AWS Academy Graduate – Cloud Foundation
-- 🤖 AWS Academy Graduate – Machine Learning
-- ☕ Java Programming: Beginner to Master
-- 🧠 DSA Mastery Using C and C++
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govi2435&show_icons=true&theme=tokyonight" alt="Govinda's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govi2435&theme=tokyonight" alt="Govinda's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govi2435&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Govi2435&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Govi2435&theme=radical&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govi2435&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Govinda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Govi2435&theme=react-dark&bg_color=20232a&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Govi2435/Govi2435/blob/output/github-contribution-grid-snake-dark.svg)
+
+> ⚙️ **Setup required:** Go to your `Govi2435` repo → **Actions** tab → create `.github/workflows/snake.yml` with the workflow below.
+
+<details>
+<summary>📄 Click to see the GitHub Actions workflow</summary>
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+</div>
+
+---
+
+### 🎵 Spotify Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-govi2435.vercel.app/api/spotify)](https://open.spotify.com)
+
+> ⚙️ **Setup required:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel, connect your Spotify account, then replace `novatorem-govi2435` in the URL above with your own Vercel deployment name.
+
+</div>
+
+---
+
+### 📊 WakaTime Coding Stats
+
+<div align="center">
+
+[![Govinda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Govi2435&theme=radical&hide_border=true&layout=compact)](https://wakatime.com/@Govi2435)
+
+> ⚙️ **Setup required:** Sign up at [wakatime.com](https://wakatime.com) → install the plugin in VS Code or IntelliJ → replace `Govi2435` in the URL with your WakaTime username.
+
+</div>
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+
+| Badge | Certification |
+|:---:|:---|
+| ☁️ | AWS Academy Graduate – Cloud Foundation |
+| 🤖 | AWS Academy Graduate – Machine Learning |
+| ☕ | Java Programming: Beginner to Master |
+| 🧠 | DSA Mastery Using C and C++ |
+
+</div>
+
+---
+
+### 💼 Experience
+
+```
+🏢 Brahmin Solutions LLC          →  Software Developer Intern  (3.5 Months)
+   ├── WooCommerce & Faire → WMS Integration (Spring Boot)
+   ├── AWS SQS + Event-Driven Microservices
+   ├── REST APIs: Orders, Quotations, Vendors, Users
+   └── SKU Mapping · Status Normalization · PgSQL
+
+🏢 Tech Elecon, Anand             →  Frontend Developer Intern  (1 Month)
+   ├── Responsive UI with React.js, HTML, CSS, Bootstrap
+   └── Chatbot Integration
+```
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/govinda-prajapati" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:govindapp2403@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Govi2435" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govinda-prajapati)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindapp2403@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Govi2435)
+
+</div>
 
 ---
 
-<p align="center">⚡ <i>"Building scalable systems, one commit at a time."</i> ⚡</p>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
