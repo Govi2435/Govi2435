@@ -49,7 +49,8 @@ public class Govinda extends Developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Govi2435&theme=radical&no-frame=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Uses github-profile-trophy which is reliable on vercel -->
+<img src="https://github-profile-trophy.vercel.app/?username=Govi2435&theme=radical&no-frame=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
 
 </div>
 
@@ -60,48 +61,48 @@ public class Govinda extends Developer {
 **💻 Languages**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 **⚙️ Backend**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
 **🎨 Frontend**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 **🗄️ Databases**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 **☁️ Tools & Cloud**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </p>
 
 ---
@@ -130,12 +131,17 @@ public class Govinda extends Developer {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Govi2435&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Govi2435&theme=radical&hide_border=true" />
+<!--
+  NOTE: github-readme-stats can be slow due to GitHub API rate limits on shared instances.
+  If cards don't load, you can self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Govi2435&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Govi2435&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govi2435&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govi2435&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -155,8 +161,7 @@ public class Govinda extends Developer {
 
 <div align="center">
 
-> ⚙️ **One-time setup needed.** Create the file `.github/workflows/snake.yml` in your `Govi2435` repo with the code below. After the Action runs, replace this block with:
-> `![snake](https://github.com/Govi2435/Govi2435/blob/output/github-contribution-grid-snake-dark.svg)`
+> ⚙️ **One-time setup needed.** Create `.github/workflows/snake.yml` in your `Govi2435` repo using the workflow below. Once the Action runs successfully, the snake SVG will appear here automatically.
 
 <details>
 <summary>📄 Click to see the GitHub Actions workflow</summary>
@@ -188,6 +193,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+After the workflow runs, paste this line where you want the snake to appear:
+
+```
+![snake](https://github.com/Govi2435/Govi2435/blob/output/github-contribution-grid-snake-dark.svg)
+```
+
 </details>
 
 </div>
@@ -198,7 +209,8 @@ jobs:
 
 <div align="center">
 
-> ⚙️ **Setup required:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel, connect your Spotify, then paste your deployment URL here as an image link.
+> ⚙️ **Setup required:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel and connect your Spotify account. Then replace this block with:
+> `[![Spotify](https://YOUR-DEPLOYMENT.vercel.app/api/spotify)](https://open.spotify.com)`
 
 </div>
 
@@ -208,9 +220,8 @@ jobs:
 
 <div align="center">
 
-> ⚙️ **Setup required:** Sign up at [wakatime.com](https://wakatime.com) → install the plugin in VS Code / IntelliJ → then this card will auto-populate:
->
-> `[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true)](https://wakatime.com)`
+> ⚙️ **Setup required:** Sign up at [wakatime.com](https://wakatime.com) → install plugin in VS Code/IntelliJ → then add:
+> `[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical&hide_border=true)](https://wakatime.com)`
 
 </div>
 
